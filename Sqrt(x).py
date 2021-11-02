@@ -22,5 +22,5 @@ def squareroot(x):
 x = int(input())
 print(squareroot(x))
 
-#used concept of binary search.
+#Used concept of binary search.
 #Program for binary search also given in the same repository.
