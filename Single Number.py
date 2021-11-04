@@ -10,3 +10,5 @@ def singleNumber(l):
             return key
 l=list(map(int, input().split()))
 print(singleNumber(l))
+
+#Solution using extra space.
